@@ -1,0 +1,1 @@
+gcc XX.c I/usr/local/include -L/usr/local/lib -lglfw3 -lGLEW -framework OpenGL
